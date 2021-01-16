@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gts28wifi.mk
+    $(LOCAL_DIR)/aosp_gts28wifi.mk
     
 COMMON_LUNCH_CHOICES := \
-    lineage_gts28wifi-user \
-    lineage_gts28wifi-userdebug \
-    lineage_gts28wifi-eng \
+    aosp_gts28wifi-user \
+    aosp_gts28wifi-userdebug \
+    aosp_gts28wifi-eng \
